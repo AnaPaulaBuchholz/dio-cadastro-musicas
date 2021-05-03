@@ -1,0 +1,5 @@
+C:\Users\AnaPaula\DIO.Musics\obj\Debug\net5.0\DIO.Musics.csprojAssemblyReference.cache
+C:\Users\AnaPaula\DIO.Musics\obj\Debug\net5.0\DIO.Musics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnaPaula\DIO.Musics\obj\Debug\net5.0\DIO.Musics.AssemblyInfoInputs.cache
+C:\Users\AnaPaula\DIO.Musics\obj\Debug\net5.0\DIO.Musics.AssemblyInfo.cs
+C:\Users\AnaPaula\DIO.Musics\obj\Debug\net5.0\DIO.Musics.csproj.CoreCompileInputs.cache
